@@ -1,0 +1,1 @@
+This plugin is adapted from the claude-for-legal repository by Anthropic PBC (Apache License 2.0, Copyright 2026 Anthropic PBC). The skills were rewritten for Indian law. See https://github.com/anthropics/claude-for-legal for the original and its licence.
