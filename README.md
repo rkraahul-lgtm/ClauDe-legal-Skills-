@@ -33,7 +33,7 @@ If a tool is not connected, the skill says so. It does not fill the gap from mem
 
 Use `/rahul-legal-india:judgment-source-fallback`. It finds High Court and Supreme Court orders and judgments through the official portals (eCourts High Court Services, the Supreme Court website, the Allahabad High Court ILR and AFR page), free open data on AWS, two GitHub tools, and Indian Kanoon for leads. The full list, with addresses and limits, is in `references/judgment-sources.md`. `legal-research` and `verify-citations` call this skill by themselves when Courrt does not answer. The rule stays the same: no case is used unless a real source returned it in this chat.
 
-## Skills (57)
+## Skills (58)
 
 ### Set-up, research and checking
 
@@ -64,6 +64,7 @@ Use `/rahul-legal-india:judgment-source-fallback`. It finds High Court and Supre
 - `/rahul-legal-india:document-review-log` - Review a set of documents and log each one: type, date, who, relevance, confidential or privileged-looking, and how to produce or object.
 - `/rahul-legal-india:client-letter` - Write a clear, formal letter or email to a client explaining where the matter stands, advice given, or what is needed.
 - `/rahul-legal-india:legal-memo` - Write an internal legal memo or opinion note on a question: facts, issue, law, analysis, conclusion, with real sources only.
+- `/rahul-legal-india:case-strength-assessment` - Assess how strong a matter is, lay out strategic paths and list risks, as a plain-words analysis with a colour-coded table - never a fake win percentage.
 - `/rahul-legal-india:ip-notice-draft` - Draft a cease-and-desist or infringement notice for trademark, copyright or passing off for an Indian client, after checking facts and proof.
 
 ### Contracts and employment

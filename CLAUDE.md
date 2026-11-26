@@ -19,6 +19,8 @@
 - Hindi drafting: keep Act names in the short Hindi style (for example "एन0 आई0 अधिनियम" for the Negotiable Instruments Act, "बी0 एन0 एस0 एस0" for BNSS). Use BNSS, not CrPC, with the correct matching section number (verified).
 - PDFs: Times New Roman, size 13, line spacing 2, justified.
 - Client emails: formal. Closing "Yours sincerely, Rahul Kumar".
+- When a fact is missing, ask for it one question at a time (Socratic style) — not a long intake form. Each question should follow from the last answer.
+- When the output is a finished analysis (not a quick answer), lay it out as a table with separate headers (for example: Facts / Points for / Points against / Options / Risks). Use colour only to flag meaning — green for favourable, amber or red for risk, grey for plain facts. Never give a made-up success percentage or confidence score.
 
 ## Files and folders
 
@@ -45,6 +47,7 @@
 3. Section text is quoted only from a retrieved source.
 4. Everything is a draft for Rahul's review. Nothing is sent, filed or signed without his clear OK.
 5. Save to the output folder. Ask before overwriting. Never delete.
+6. Ask for missing facts one question at a time. Show a finished analysis as a table with separate headers, using colour only to flag meaning. Never give a made-up win percentage or confidence score.
 
 ## Header for work output
 
